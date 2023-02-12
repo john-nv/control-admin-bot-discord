@@ -41,9 +41,7 @@ Bầu cua và tài xỉu chỉ khác nhau về hình ảnh
 
 Ở chế độ chờ trước khi ra kết quả
 
-<img src="https://cdn.discordapp.com/emojis/1014831508822962196.gif?size=96&quality=lossless">
-<img src="https://cdn.discordapp.com/emojis/1014831508822962196.gif?size=96&quality=lossless">
-<img src="https://cdn.discordapp.com/emojis/1014831508822962196.gif?size=96&quality=lossless">
+<img src="https://cdn.discordapp.com/emojis/1014831508822962196.gif?size=96&quality=lossless"><img src="https://cdn.discordapp.com/emojis/1014831508822962196.gif?size=96&quality=lossless"><img src="https://cdn.discordapp.com/emojis/1014831508822962196.gif?size=96&quality=lossless">
 
 Ra kết quả
 
