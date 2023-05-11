@@ -3,8 +3,6 @@ Bot admin được xây dựng dựa trên các nhu cầu quan trọng của cá
 
 Đa số các bot có sẵn trước đó đã làm tốt công việc hiện tại của mình, vào thời điểm giữa năm 2021 rất hot các game cờ bạc trong cộng đồng Discord Việt Nam nhưng thị trường ít ai công khai source còn các bot có hiện hành lại không có, dựa vào nhu cầu của cá nhân tôi và các admin khác và cùng nhau xây dựng ý tưởng và tôi thay mặt các admin tạo ra bot game cho mọi người giải trí.
 
-Có thể bot ở version discord hiện tại đã lỗi thời vì đã chuyển sang các cấu trúc nhắc lệnh thay vì thủ công như ngày trước, nhưng đó là kỉ niệm của chúng tôi của những người xa lạ khắp việt nam và không quên các bạn ngoại quốc cùng nhau tụ họp tán gẫu, tâm sự và nâng cao tiếng anh giao tiếp.
-
 **Chúng tôi không xây dựng bot mang tính chất làm tiền hoặc vi phạm pháp luật. Mọi cá cược đều mang tính chất giải trí, không sử dụng tiền mặt hoặc các loại tiền tệ có thể sử dụng ở đời thật và không thể quy đổi thành tiền mặt hoặc tiền tệ, tiền ảo**
 
 ## Xây dựng trên các nền thư viện chính
